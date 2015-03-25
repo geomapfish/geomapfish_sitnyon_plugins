@@ -1,0 +1,7 @@
+raster_statistics:
+    stats_habitants:
+        unit: habitant_s
+        resolution: 5
+        round: 1
+        values: [sum]
+        order: 1
